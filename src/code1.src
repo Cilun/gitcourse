@@ -1,7 +1,6 @@
-function echoMinusOne(zyx) {
-  echo zyx - 1;
+function echoPlusOne(xyz) {
+  echo xyz + 1;
 }
+var x = 3; 
+echo x;
 
-function getAge() {
- return age-15;
-}
