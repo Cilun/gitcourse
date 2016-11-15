@@ -1,3 +1,7 @@
+function echoMinusOne(zyx) {
+  echo zyx - 1;
+}
+
 function getAge() {
  return age-15;
 }
