@@ -2,3 +2,5 @@ for (var i = 0; i < amount; i+1) {
  if (amount > 1000) {
    alert("hei älä viitsi kakke");
 }
+
+Kentsu haisee kakelle
